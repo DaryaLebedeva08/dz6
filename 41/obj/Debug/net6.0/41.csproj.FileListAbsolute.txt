@@ -1,0 +1,15 @@
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/bin/Debug/net6.0/41
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/bin/Debug/net6.0/41.deps.json
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/bin/Debug/net6.0/41.runtimeconfig.json
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/bin/Debug/net6.0/41.dll
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/bin/Debug/net6.0/41.pdb
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.csproj.AssemblyReference.cache
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.AssemblyInfoInputs.cache
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.AssemblyInfo.cs
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.csproj.CoreCompileInputs.cache
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.dll
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/refint/41.dll
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.pdb
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/41.genruntimeconfig.cache
+/Users/daravolkova/Desktop/c #  семинары/dz6/41/obj/Debug/net6.0/ref/41.dll
